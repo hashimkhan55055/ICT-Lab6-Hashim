@@ -1,0 +1,5 @@
+Git is a version control system that helps developers track and manage changes in their code. 
+It allows multiple people to work on the same project efficiently.
+
+GitHub is an online platform that hosts Git repositories. 
+It makes collaboration easier by storing projects on the cloud and providing tools for version control and teamwork.
